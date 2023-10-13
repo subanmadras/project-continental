@@ -1,2 +1,6 @@
 The DevOps is the combination of two words, one is Development and other is Operations. 
 It is a culture to promote the development and operation process collectively.
+
+
+
+please go through it carefully
